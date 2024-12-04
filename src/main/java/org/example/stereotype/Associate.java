@@ -1,22 +1,17 @@
 package org.example.stereotype;
 
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Component
+@Scope("prototype")
 public class Associate {
-    @Value("1")
-    private String id;
+    @Value("Pune")
+    private String city;
     @Value("Manoj")
     private String name;
 
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;
@@ -29,8 +24,16 @@ public class Associate {
     @Override
     public String toString() {
         return "Associate : {" +
-                "id='" + id + '\'' +
+                "city='" + city + '\'' +
                 ", name='" + name + '\'' +
                 '}';
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
     }
 }
