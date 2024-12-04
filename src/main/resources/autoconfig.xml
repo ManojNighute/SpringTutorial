@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean class="org.example.auto.wire.Address" name="address">-->
+<!--        <property name="street" value="Nasik raod"></property>-->
+<!--        <property name="city" value="Pune"></property>-->
+<!--    </bean>-->
+
+    <bean class="org.example.auto.wire.Address" name="address1">
+        <property name="street" value="Pune raod"></property>
+        <property name="city" value="Pune"></property>
+    </bean>
+<!--    <bean class="org.example.auto.wire.Employee" name="employee" autowire="byName"/>-->
+<!--    <bean class="org.example.auto.wire.Employee" name="employee1" autowire="byType"/>-->
+    <bean class="org.example.auto.wire.Employee" name="employee1" autowire="constructor"/>
+</beans>
