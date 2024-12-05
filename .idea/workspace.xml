@@ -36,29 +36,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.App.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.org.example.auto.wire.Test.executor": "Run",
-    "Application.org.example.auto.wire.annotation.Test.executor": "Run",
-    "Application.org.example.standalonecollection.Test.executor": "Run",
-    "Application.org.example.stereootype.Test.executor": "Run",
-    "Application.org.example.stereotype.Test.executor": "Run",
-    "Maven.SpringTutorial [clean].executor": "Run",
-    "Maven.SpringTutorial [install].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/10738238/OneDrive - LTIMindtree/Documents/GitHub/SpringTutorial/src/main/resources",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.auto.wire.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.auto.wire.annotation.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.standalonecollection.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.stereootype.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.stereotype.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SpringTutorial [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.SpringTutorial [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/10738238/OneDrive - LTIMindtree/Documents/GitHub/SpringTutorial/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\10738238\OneDrive - LTIMindtree\Documents\GitHub\SpringTutorial\src\main\resources" />

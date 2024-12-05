@@ -10,4 +10,6 @@
 
 
         <context:component-scan base-package="org.example.stereotype" />
+
+        <bean class="org.example.stereotype.Teacher" name="teacher" scope="prototype"></bean>
 </beans>
